@@ -1,0 +1,20 @@
+This dataset contains sales and return records for a retail company.
+
+Sheets Included:
+Orders – Contains 5,899 records with detailed sales transaction data including:
+Order ID, Order Date, Ship Date
+Customer and Segment information
+Geographic details (City, State, Region)
+Product information (Category, Sub-Category, Product Name)
+Metrics: Sales, Quantity, Profit
+
+Returns – Contains 800 records mapping returned orders via:
+Order ID
+Returned status (Yes)
+
+
+Use Cases:-
+Sales trend analysis
+Profitability by region/category
+Customer segmentation
+Return rate evaluation
